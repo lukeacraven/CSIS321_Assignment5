@@ -7,7 +7,6 @@ import java.util.Random;
 
 public class IntegerLinkedList
 {
-
 	public static void main(String[] args)
 	{
 		int sumOfList = 0;
@@ -37,5 +36,4 @@ public class IntegerLinkedList
 		
 		System.out.println("\nFloating-point average of elements: " + (float)sumOfList/25);
 	}
-
 }
